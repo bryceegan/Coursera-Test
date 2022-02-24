@@ -1,2 +1,2 @@
-# Coursera-Test
+# coursera-test
 HTML, CSS and JS course
